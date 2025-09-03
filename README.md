@@ -124,9 +124,12 @@ vendor-performance-analysis/
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/vendor-performance-analysis.git
+## How to Run This Project
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/vendor-performance-analysis.git
+
 ```
 3. Load the CSVs and ingest into database:
 ```bash
